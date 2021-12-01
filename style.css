@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(148, 30, 59);
+}
+h1{
+    text-align: center;
+}
+fieldset{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    margin: auto;
+}
+#textfield{
+height: 7rem;
+background-color: white;
+}
+#save{
+    background-color: rgb(252, 172, 67);
+}
+#reset{
+    background-color: rgb(250, 228, 31);
+}
+div #section{
+    text-align: center;
+    Width: 100%;
+
+    margin: auto;
+    display: block;
+    padding: 1rem;
+}
+ul{
+    margin: 1rem;
+    background-color: white;
+    list-style: none; 
+    padding: 0;
+}
